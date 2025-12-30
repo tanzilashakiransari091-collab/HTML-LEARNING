@@ -1,0 +1,26 @@
+body {
+    background-image:url(https://img.freepik.com/free-photo/morning-sun-light-shine-with-silhouette-mountain-blue-cloudy-background_1258-84793.jpg) ;
+    
+
+    margin: 0, auto;
+    padding: 0, auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+h1 {
+    color: yellow;
+    text-align: center;
+    text-shadow: 2px 3px 5px rgba(232, 255, 20, 0.92); 
+    line-height: 2em;
+    }
+
+
+
+
+    p {
+        color:#06252d;
+        text-align: center;
+    }
+    
+    
