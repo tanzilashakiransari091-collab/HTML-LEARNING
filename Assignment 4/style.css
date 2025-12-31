@@ -1,0 +1,18 @@
+body{
+    background-color:pink;
+}
+
+
+h1 {
+    text-align: center;
+    color: maroon;
+  text-shadow: 2px 2px rgb(250, 108, 108);
+}
+h2{
+    color: maroon;
+  text-shadow: 2px 2px rgb(250, 108, 108);
+}
+
+ul li{
+ color: brown;   
+}
